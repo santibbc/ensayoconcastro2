@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
 Console.WriteLine("modificacion en rama");
+Console.WriteLine("Mono, anote todo lo que pueda");
 
 var producto = new Producto();
 Producto producto1 = new Producto();
